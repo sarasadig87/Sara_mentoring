@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-08T18:06:04 PDT" name="Suite" finished-at="2023-08-08T18:08:06 PDT" duration-ms="122516">
+    <groups>
+    </groups>
+    <test started-at="2023-08-08T18:06:04 PDT" name="Test" finished-at="2023-08-08T18:08:06 PDT" duration-ms="122516">
+      <class name="com.tutorialsninjamentoring.TryTestingThisTest">
+        <test-method signature="openUrl()[pri:0, instance:com.tutorialsninjamentoring.TryTestingThisTest@5c33f1a9]" started-at="2023-08-08T18:06:16 PDT" name="openUrl" finished-at="2023-08-08T18:06:19 PDT" duration-ms="2379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+      </class> <!-- com.tutorialsninjamentoring.TryTestingThisTest -->
+      <class name="com.tutorialsninjamentoring.TuorialsNinjaSearchTest">
+        <test-method signature="searchValidProduct()[pri:0, instance:com.tutorialsninjamentoring.TuorialsNinjaSearchTest@313ac989]" started-at="2023-08-08T18:07:53 PDT" name="searchValidProduct" finished-at="2023-08-08T18:08:06 PDT" duration-ms="13382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidProduct -->
+      </class> <!-- com.tutorialsninjamentoring.TuorialsNinjaSearchTest -->
+      <class name="com.tutorialsninjamentoring.TutorialsLoginT">
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:19 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:06:25 PDT" duration-ms="6606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sarakhalifa491@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saraselenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:25 PDT" name="tearDown" finished-at="2023-08-08T18:06:26 PDT" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:26 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:06:33 PDT" duration-ms="6445" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:33 PDT" name="tearDown" finished-at="2023-08-08T18:06:34 PDT" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:34 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:06:40 PDT" duration-ms="6711" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:40 PDT" name="tearDown" finished-at="2023-08-08T18:06:41 PDT" duration-ms="789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:41 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:06:48 PDT" duration-ms="6608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:48 PDT" name="tearDown" finished-at="2023-08-08T18:06:48 PDT" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:48 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:06:55 PDT" duration-ms="6072" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:55 PDT" name="tearDown" finished-at="2023-08-08T18:06:55 PDT" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:06:55 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:07:01 PDT" duration-ms="6212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:01 PDT" name="tearDown" finished-at="2023-08-08T18:07:02 PDT" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:02 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:07:09 PDT" duration-ms="6832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:09 PDT" name="tearDown" finished-at="2023-08-08T18:07:11 PDT" duration-ms="1450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:11 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:07:17 PDT" duration-ms="6881" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:17 PDT" name="tearDown" finished-at="2023-08-08T18:07:18 PDT" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:18 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:07:28 PDT" duration-ms="9152" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda7@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:28 PDT" name="tearDown" finished-at="2023-08-08T18:07:29 PDT" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:29 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:07:36 PDT" duration-ms="7755" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda8@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:36 PDT" name="tearDown" finished-at="2023-08-08T18:07:37 PDT" duration-ms="977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:37 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:07:45 PDT" duration-ms="7248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda9@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:45 PDT" name="tearDown" finished-at="2023-08-08T18:07:46 PDT" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:46 PDT" name="setUp" data-provider="getData" finished-at="2023-08-08T18:07:52 PDT" duration-ms="6696" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda10@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninjamentoring.TutorialsLoginT@4550bb58]" started-at="2023-08-08T18:07:52 PDT" name="tearDown" finished-at="2023-08-08T18:07:53 PDT" duration-ms="693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninjamentoring.TutorialsLoginT -->
+      <class name="com.tutorialsninjamentoring.FlipKartttt">
+        <test-method signature="flipkartECommerce()[pri:0, instance:com.tutorialsninjamentoring.FlipKartttt@436813f3]" started-at="2023-08-08T18:06:04 PDT" name="flipkartECommerce" finished-at="2023-08-08T18:06:16 PDT" duration-ms="12544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartECommerce -->
+      </class> <!-- com.tutorialsninjamentoring.FlipKartttt -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

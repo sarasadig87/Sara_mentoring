@@ -8,7 +8,7 @@ import java.util.Properties;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class FlipKartttt {
@@ -17,7 +17,7 @@ public class FlipKartttt {
 	public FileInputStream ip;
 	@Test
 	public void flipkartECommerce() throws Exception {
-		driver= new ChromeDriver();
+		driver= new FirefoxDriver();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(10));
